@@ -1,0 +1,17 @@
+{
+    "name": "Pomeranian Castles",
+    "short_name": "PomCas",
+    "theme_color": "#43ad29",
+    "background_color": "#43ad29",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons" : [
+        {
+        "src"  :"./img.zamek.png",
+        "size" : "512x512",
+        "type" : "image/png"
+        }
+    ]
+  }
